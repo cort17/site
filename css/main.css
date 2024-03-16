@@ -10,7 +10,7 @@
 	--purple: #5c62ec;
 
 	/* Nav */
-	--nav-bg: var(--black);
+	--nav-bg: var(--white);
 	--nav-border: var(--black-border);
 	--nav-text: var(--white);
 
