@@ -211,15 +211,13 @@ body {
 /* Header */
 
 .header {
+
 	padding: 40px 0;
 	min-height: 695px;
 
 	display: flex;
 	justify-content: center;
 	align-items: center;
-
-	color:  #15224d;
-	text-align: center;
 
 	background-image: url('./../img/images.png');
 
@@ -230,6 +228,10 @@ body {
 	-moz-animation: animatedBackground 120s linear infinite;
 	-webkit-animation: animatedBackground 120s linear infinite;
  	-o-animation: animatedBackground 120s linear infinite;
+
+	color: var(--header-text);
+	text-align: center;
+}
 
 .header__wrapper {
 	padding: 0 15px;
