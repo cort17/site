@@ -211,7 +211,13 @@ body {
 /* Header */
 
 .header {
-			padding: 40px 0;
+
+
+
+
+
+	
+	padding: 40px 0;
 	min-height: 695px;
 
 	display: flex;
@@ -219,9 +225,8 @@ body {
 	align-items: center;
 
 
-	color: var(--header-text);
+	color:  #15224d;
 	text-align: center;
-
 
 	background-image: url('./../img/images.png');
 
