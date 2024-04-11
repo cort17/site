@@ -211,19 +211,12 @@ body {
 /* Header */
 
 .header {
-
-
-
-
-
-	
 	padding: 40px 0;
 	min-height: 695px;
 
 	display: flex;
 	justify-content: center;
 	align-items: center;
-
 
 	color:  #15224d;
 	text-align: center;
